@@ -90,6 +90,6 @@ Special thanks to Pardeike's amazing non-destructive patching library, Harmony. 
     <img src="https://img.shields.io/badge/email-matt.walls31@gmail.com-blue.svg?style=flat" alt="Email: matt.walls31@gmail.com" />
   </a>
   <a href="https://raw.githubusercontent.com/jecrell/JecsTools/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-lightgray.svg?style=flat" alt="MIT License" />
+    <img src="https://img.shields.io/badge/license-GNUv3-lightgray.svg?style=flat" alt="GNUv3 License" />
   </a>
 </p>
